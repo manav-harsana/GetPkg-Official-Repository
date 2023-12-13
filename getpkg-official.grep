@@ -1,0 +1,10 @@
+repo.giturl=
+repo.name=GetPkg Official [A/FOSS]
+repo.desc=The Official GetPkg Foss Repository for Android Devices.
+repo.version=1.0
+repo.releasecode=1
+repo.cycle=rolling
+repo.author=Manav Harsana
+repo.type=FOSS
+repo.platform=android
+repo.status=maintained
