@@ -1,4 +1,4 @@
-repo.giturl=
+repo.giturl=https://github.com/manav-harsana/GetPkg-Official-Repository
 repo.name=GetPkg Official [A/FOSS]
 repo.desc=The Official GetPkg Foss Repository for Android Devices.
 repo.version=1.0
