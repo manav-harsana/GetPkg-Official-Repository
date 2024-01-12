@@ -1,0 +1,12 @@
+pkg.name=Acode
+pkg.author=Fox Debug (Ajit Kumar)
+pkg.desc=A lightweight but powerful text/code editor.
+pkg.bdate=24/11/2023
+pkg.channel=Stable
+url.universal=https://f-droid.org/repo/com.foxdebug.acode_330.apk
+pkg.version=1.8.7
+pkg.releasecode=1
+pkg.type=apk
+inc.nfdependecy=False
+inc.nfnetwork=False
+inc.trackers=False

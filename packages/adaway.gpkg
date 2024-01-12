@@ -1,0 +1,12 @@
+pkg.name=AdAway
+pkg.author=org.adaway
+pkg.desc=A Free and Open Source ad blocker for Android.
+pkg.bdate=25/06/2023
+pkg.channel=Stable
+url.universal=https://f-droid.org/repo/org.adaway_60101.apk
+pkg.version=6.1.1
+pkg.releasecode=1
+pkg.type=apk
+inc.nfdependecy=False
+inc.nfnetwork=False
+inc.trackers=False

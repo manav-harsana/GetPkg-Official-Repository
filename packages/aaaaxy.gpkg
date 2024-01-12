@@ -1,0 +1,14 @@
+pkg.name=AAAAXY
+pkg.author=divVerent
+pkg.desc=A nonlinear 2D puzzle platformer taking place in impossible spaces.
+pkg.bdate=14/12/2023
+pkg.channel=Stable
+url.arm64v8a=https://f-droid.org/repo/io.github.divverent.aaaaxy_104301194.apk
+url.armeabiv7a=https://f-droid.org/repo/io.github.divverent.aaaaxy_104301193.apk
+pkg.version=1.4.119
+pkg.releasecode=1
+pkg.type=apk
+pkg.srcrepo=https://github.com/divVerent/aaaaxy
+inc.nfdependecy=False
+inc.nfnetwork=False
+inc.trackers=False

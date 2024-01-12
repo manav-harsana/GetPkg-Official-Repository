@@ -1,0 +1,12 @@
+pkg.name=addy.io
+pkg.author=Stjin
+pkg.desc=(Formerly AnonAddy) Anonymous Email Forwarding.
+pkg.bdate=01/09/2023
+pkg.channel=Stable
+url.universal=https://f-droid.org/repo/host.stjin.anonaddy_344810200.apk
+pkg.version=4.8.1
+pkg.releasecode=1
+pkg.type=apk
+inc.nfdependecy=False
+inc.nfnetwork=True
+inc.trackers=False
