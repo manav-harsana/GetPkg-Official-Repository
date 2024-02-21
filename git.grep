@@ -1,8 +1,7 @@
-repo.name=GetPkg Android Official
+repo.name=GetPkg Offical [Android/FOSS]
 repo.version=1.0
 repo.release=1
 repo.file=getpkg-official.grep
-repo.channel=hybrid
 repo.status=maintained
 repo.date=Jan 12, 2024
 
