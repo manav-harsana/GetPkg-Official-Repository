@@ -1,5 +1,5 @@
-repo.giturl=https://github.com/manav-harsana/GetPkg-Official-Repository
-repo.name=GetPkg Official [A/FOSS]
+repo.giturl=https://github.com/manav-harsana/GetPkg-Official-Repository/
+repo.name=GetPkg Official [Android/FOSS]
 repo.desc=The Official GetPkg Foss Repository for Android Devices.
 repo.version=1.0
 repo.releasecode=1
@@ -7,4 +7,3 @@ repo.cycle=rolling
 repo.author=Manav Harsana
 repo.type=FOSS
 repo.platform=android
-repo.status=maintained
